@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Simcoe Pal Peso Lata",
+        "precio": 150,
+        "imagen": "img/simcoePalPesoMain.jpg",
+        "codigo": 1.1
+    },
+    {
+        "nombre": "Resistencia Red Ale Lata",
+        "precio": 130,
+        "imagen": "img/resistenciaMain.jpg",
+        "codigo": 1.2
+    },
+    {
+        "nombre": "American Ipa Bandida Lata",
+        "precio": 125,
+        "imagen": "img/IpaBandidamain.jpg",
+        "codigo": 1.3
+    },
+    {
+        "nombre": "Golden Ale Lata",
+        "precio": 120,
+        "imagen": "img/goldenMain1.jpeg",
+        "codigo": 1.4
+    },
+    {
+        "nombre": "Angry Honey Rubia Ale Lata",
+        "precio": 125,
+        "imagen": "img/angryMain1.jpeg",
+        "codigo": 1.5
+    },
+    {
+        "nombre": "Fra-Ñeri Imperial Stout Lata",
+        "precio": 200,
+        "imagen": "img/franeriMain1.jpeg",
+        "codigo": 1.6
+    },
+    {
+        "nombre": "Simcoe Pal Peso Pet",
+        "precio": 170,
+        "imagen": "img/simcoeMainPet.jpeg",
+        "codigo": 2.1
+    },
+    {
+        "nombre": "Resistencia Red Ale Pet",
+        "precio": 160,
+        "imagen": "img/redHoodAlePet.jpeg",
+        "codigo": 2.2
+    },
+    {
+        "nombre": "American Ipa Bandida Pet",
+        "precio": 180,
+        "imagen": "img/americanIpaMainPet.jpeg",
+        "codigo": 2.3
+    },
+    {
+        "nombre": "Golden Ale Pet",
+        "precio": 150,
+        "imagen": "img/goldenAlePet.jpeg",
+        "codigo": 2.4
+    },
+    {
+        "nombre": "Angry Honey Rubia Ale Pet",
+        "precio": 160,
+        "imagen": "img/angryMainPet.jpeg",
+        "codigo": 2.5
+    },
+    {
+        "nombre": "Fenix Hop Pet",
+        "precio": 160,
+        "imagen": "img/simcoeMainPet.jpeg",
+        "codigo": 2.6
+    }
+]
